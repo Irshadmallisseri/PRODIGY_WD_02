@@ -1,0 +1,11 @@
+body {
+    background: linear-gradient(0deg, #D9AFD9, #97D9E1);
+}
+
+.stopwatch-container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 2px solid black;
+}
